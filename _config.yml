@@ -83,7 +83,7 @@ author:
   name             : "亓臻康"
   avatar           : "profile.png"
   bio              : "正在寻找新的PhD位置"
-  location         : "Location"
+  location         : Beijing # "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/qizhenkang/
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
