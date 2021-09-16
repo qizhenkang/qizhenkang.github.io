@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "亓臻康的个人主页"
+title: "亓臻康"
 permalink: /cv/
 author_profile: true
 redirect_from:
