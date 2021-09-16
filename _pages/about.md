@@ -42,7 +42,7 @@ redirect_from:
     - Introduction to Artificial Intelligence
     - Deep Learning
 - **Simulation Software**
-  - PSCAD
+  - Master PSCAD
 - **English**
   - College English Test Band 6 (CET-6), 530
   - IELTS (Currently preparing)
@@ -51,6 +51,7 @@ redirect_from:
 
 ## Contact
 
-- E-mail: qizhenkang@foxmail.com
-- Linkedin: Zhenkang Qi
+- E-mail: [qizhenkang@foxmail.com](mailto:qizhenkang@foxmail.com)
+- Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/)
 - WeChat: sdlwqzk
+- Phone: +86-18801380634
