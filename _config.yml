@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Qi Zhenkang / 亓臻康"
+title: "Zhenkang Qi / 亓臻康"
 title_separator: "-"
-name: &name "Qi Zhenkang"
+name: &name "Zhenkang Qi"
 description: &description "personal description"
 url: https://qizhenkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
