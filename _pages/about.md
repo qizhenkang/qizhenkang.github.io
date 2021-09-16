@@ -25,24 +25,32 @@ redirect_from:
 - 2018, **Excellent Student of Jiangsu Province**(Top 1%)
 - 2017, **President Scholarship**(Top 1%)
 
-## 项目经历
+## Projects
 
-- 全国大学生机器人大赛 RoboMaster 总决赛 全国三等奖
-- 基于测控终端和数据分析的智能电网应用技术研究 校级优秀结题
+- 2018, **RoboMaster of National Robotics Competition**, National Third Prize
+  - Responsible for robot motion control system.
+  - Embedded Development & Machine Learning Algorithm
+- 2018, **Terminal and Data based Smart Grid Technology**, E
+  - Student Research Training Program(SRTP)
 
-## 技能水平
+## Skills
 
-- **数据分析**
-  - 熟练掌握*Python*、*MATLAB*等科学计算工具
-  - 算法方面：自学凸优化、人工智能导论、深度学习等课程
-- **电力仿真工具**
-  - *PSCAD*等电力仿真软件
-- **英语水平**
-  - 大学英语六级(_530_)
-  - 良好的英文阅读/写作能力
-  - 掌握英文文献搜索与管理方法
+- **Data Analysis**
+  - Master scientific calculation tools, such as **Python** and **MATLAB**
+  - Self-study Courses:
+    - Convex Optimization
+    - Introduction to Artificial Intelligence
+    - Deep Learning
+- **Simulation Software**
+  - PSCAD
+- **English**
+  - CET-6 530
+  - IELTS (Currently preparing)
+  - Master English reading/writing skills
+  - Master literature search and management methods
 
-## 与我取得联系：
+## Contact
 
 - E-mail: qizhenkang@foxmail.com
+- Linkedin: Zhenkang Qi
 - WeChat: sdlwqzk
