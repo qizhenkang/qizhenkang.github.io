@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "教育经历"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-## 教育经历
 
 - **清华大学** 电机工程与应用电子技术系 博士研究生
   - 免试直博生
