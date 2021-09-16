@@ -18,12 +18,12 @@ redirect_from:
   - **GPA: 3.89/4.0, Ranking：1/161**
   - 2016.09 - 2020.06
 
-## 荣誉奖励
+## Awards
 
-- 2020 届 东南大学**本科优秀毕业生**
-- 2017-2018 学年 **国家奖学金**
-- 2018-2019 学年 **省级三好学生**
-- 2016-2017 学年 **校长奖学金**
+- 2020, **Graduation with Honor: College Graduate Excellence Award**(Top 5%)
+- 2018, **National Scholarship for Undergraduate Students**(Top 5%)
+- 2018, **Excellent Student of Jiangsu Province**(Top 1%)
+- 2017, **President Scholarship**(Top 1%)
 
 ## 项目经历
 
