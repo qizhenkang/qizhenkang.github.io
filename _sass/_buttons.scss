@@ -123,7 +123,8 @@
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
   (weixin,$weixin-color),
-  (location,$map-marker-color);
+  (location,$map-marker-color),
+  (phone,$phone-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
