@@ -124,7 +124,8 @@
   (linkedin, $linkedin-color),
   (weixin,$weixin-color),
   (location,$map-marker-color),
-  (phone,$phone-color);
+  (phone,$phone-color),
+  (email,$email-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
