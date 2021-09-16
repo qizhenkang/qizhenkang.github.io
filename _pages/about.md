@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 **与我取得联系**：
 - E-mail: qizhenkang@foxmail.com
 - WeChat: sdlwqzk
