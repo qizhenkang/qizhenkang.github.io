@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-**与我取得联系**：
-- E-mail: qizhenkang@foxmail.com
-- WeChat: sdlwqzk
-
 ## 教育经历
 - **清华大学** 电机工程与应用电子技术系 博士研究生 2020.09 - 至今  
   - 电力系统及其自动化
@@ -43,3 +38,7 @@ redirect_from:
   - 大学英语六级(*530*)
   - 良好的英文阅读/写作能力
   - 掌握英文文献搜索与管理方法
+
+## 与我取得联系：
+- E-mail: qizhenkang@foxmail.com
+- WeChat: sdlwqzk
