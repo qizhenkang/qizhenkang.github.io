@@ -20,18 +20,19 @@ redirect_from:
 
 ## Awards
 
-- 2020, **Graduation with Honor: College Graduate Excellence Award**(Top 5%)
-- 2018, **National Scholarship for Undergraduate Students**(Top 5%)
-- 2018, **Excellent Student of Jiangsu Province**(Top 1%)
-- 2017, **President Scholarship**(Top 1%)
+- 2020, **Graduation with Honor: College Graduate Excellence Award** (Top 5%)
+- 2018, **National Scholarship for Undergraduate Students** (Top 5%)
+- 2018, **Excellent Student of Jiangsu Province** (Top 1%)
+- 2017, **President Scholarship** (Top 1%)
 
 ## Projects
 
 - 2018, **RoboMaster of National Robotics Competition**, National Third Prize
   - Responsible for robot motion control system.
   - Embedded Development & Machine Learning Algorithm
-- 2018, **Terminal and Data based Smart Grid Technology**, E
-  - Student Research Training Program(SRTP)
+- 2018, **Terminal and Data based Smart Grid Technology**, Score A
+  - Student Research Training Program (SRTP)
+  - Design of load forecasting algorithm
 
 ## Skills
 
