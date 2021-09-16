@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm still Passionate about the future, despite the detours.
+
 ## Education
 
 - **Ph.D. Candidate, Tsinghua University**, Beijing, China
