@@ -40,11 +40,14 @@ redirect_from:
 - **电力仿真工具**
   - *PSCAD*等电力仿真软件
 - **英语水平**
-  - 大学英语六级(_530_)
+  - 大学英语六级（_530_）
+  - IELTS（正在准备中…）
   - 良好的英文阅读/写作能力
   - 掌握英文文献搜索与管理方法
 
 ## 与我取得联系：
 
-- E-mail: qizhenkang@foxmail.com
+- E-mail: [qizhenkang@foxmail.com](mailto:qizhenkang@foxmail.com)
+- Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/)
 - WeChat: sdlwqzk
+- Phone: +86-18801380634
