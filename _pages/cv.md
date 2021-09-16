@@ -9,51 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## 教育经历
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **清华大学** 电机工程与应用电子技术系 博士研究生 2020.09 - 至今
+  - 电力系统及其自动化
+  - 免试直博生
+- **东南大学** 电气工程学院 学士学位 2016.09 - 2020.06
+  - 电气工程及其自动化
+  - GPA: 3.89/4.0 排名：1/161
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 荣誉奖励
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 2020 届 东南大学**本科优秀毕业生**
+- 2017-2018 学年 **国家奖学金**
+- 2018-2019 学年 **省级三好学生**
+- 2016-2017 学年 **校长奖学金**
+
+## 项目经历
+
+- 全国大学生机器人大赛 RoboMaster 总决赛 全国三等奖
+- 基于测控终端和数据分析的智能电网应用技术研究 校级优秀结题
+
+## 技能水平
+
+- **数据分析**
+  - 熟练掌握*Python*、*MATLAB*等科学计算工具
+  - 算法方面：自学凸优化、人工智能导论、深度学习等课程
+- **电力仿真工具**
+  - *PSCAD*等电力仿真软件
+- **英语水平**
+  - 大学英语六级(_530_)
+  - 良好的英文阅读/写作能力
+  - 掌握英文文献搜索与管理方法
+
+## 与我取得联系：
+
+- E-mail: qizhenkang@foxmail.com
+- WeChat: sdlwqzk
