@@ -44,7 +44,7 @@ redirect_from:
 - **Simulation Software**
   - PSCAD
 - **English**
-  - CET-6 530
+  - College English Test Band 6 (CET-6), 530
   - IELTS (Currently preparing)
   - Master English reading/writing skills
   - Master literature search and management methods
