@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "教育经历"
+title: "亓臻康的个人主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+E-mail: qizhenkang@foxmail.com   TEL:+86-18801380634   WX:sdlwqzk
+
+## 教育经历
 - 2020.09 - 至今  **清华大学** 电机工程与应用电子技术系 博士研究生
   - 免试直博生
 - 2016.09-2020.06 **东南大学** 电气工程学院 学士学位
