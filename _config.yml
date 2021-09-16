@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale: "zh-CN"
-title: "亓臻康 / Qi Zhenkang"
+locale: "en-US"
+title: "Qi Zhenkang / 亓臻康"
 title_separator: "-"
-name: &name "亓臻康"
+name: &name "Qi Zhenkang"
 description: &description "personal description"
 url: https://qizhenkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name: "亓臻康"
+  name: "Zhenkang Qi"
   avatar: "qizhenkang.jpg"
   bio: "I am looking for a new Ph.D. position."
   location: "Beijing, China" # "Location"
