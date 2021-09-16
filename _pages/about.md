@@ -1,22 +1,25 @@
 ---
 permalink: /
-title: "亓臻康的个人主页"
+title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-## 教育经历
-- **清华大学** 电机工程与应用电子技术系 博士研究生 2020.09 - 至今  
-  - 电力系统及其自动化
-  - 免试直博生
-- **东南大学** 电气工程学院 学士学位 2016.09 - 2020.06 
-  - 电气工程及其自动化
-  - GPA: 3.89/4.0 排名：1/161
+## Education
+
+- **Ph.D. Candidate, Tsinghua University**, Beijing, China
+  - Electrical Engineering
+  - 2020.09 - Present
+- **B.E., Southeast University**, Nanjing, China
+  - Electrical Engineering
+  - **GPA: 3.89/4.0, Ranking：1/161**
+  - 2016.09 - 2020.06
 
 ## 荣誉奖励
+
 - 2020 届 东南大学**本科优秀毕业生**
 - 2017-2018 学年 **国家奖学金**
 - 2018-2019 学年 **省级三好学生**
@@ -24,21 +27,22 @@ redirect_from:
 
 ## 项目经历
 
-- 全国大学生机器人大赛RoboMaster总决赛 全国三等奖
+- 全国大学生机器人大赛 RoboMaster 总决赛 全国三等奖
 - 基于测控终端和数据分析的智能电网应用技术研究 校级优秀结题
 
 ## 技能水平
 
 - **数据分析**
-  - 熟练掌握*Python*、*MATLAB*等科学计算工具 
+  - 熟练掌握*Python*、*MATLAB*等科学计算工具
   - 算法方面：自学凸优化、人工智能导论、深度学习等课程
 - **电力仿真工具**
   - *PSCAD*等电力仿真软件
 - **英语水平**
-  - 大学英语六级(*530*)
+  - 大学英语六级(_530_)
   - 良好的英文阅读/写作能力
   - 掌握英文文献搜索与管理方法
 
 ## 与我取得联系：
+
 - E-mail: qizhenkang@foxmail.com
 - WeChat: sdlwqzk
