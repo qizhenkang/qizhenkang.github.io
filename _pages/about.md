@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-E-mail: qizhenkang@foxmail.com   TEL:+86-18801380634   WX:sdlwqzk
+**与我取得联系**：
+- E-mail: qizhenkang@foxmail.com
+- WeChat: sdlwqzk
 
 ## 教育经历
 - 2020.09 - 至今  **清华大学** 电机工程与应用电子技术系 博士研究生
