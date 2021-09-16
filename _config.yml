@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "亓臻康"
   avatar           : "qizhenkang.jpg"
-  bio              : "正在寻找新的PhD位置"
-  location         : Beijing # "Location"
+  bio              : "I am looking for a new Ph.D. position."
+  location         : "Beijing, China" # "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
