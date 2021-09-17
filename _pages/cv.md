@@ -1,13 +1,13 @@
 ---
 # layout: archive
-title: "亓臻康"
 permalink: /cv/
+title: "亓臻康"
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## 教育经历
 
