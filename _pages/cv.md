@@ -30,7 +30,18 @@ redirect_from:
 ## 项目经历
 
 - 全国大学生机器人大赛 RoboMaster 总决赛 全国三等奖
-- 基于测控终端和数据分析的智能电网应用技术研究 校级优秀结题
+
+| ![RoboMaster](../images/robomaster02.jpg)  | ![RoboMaster](../images/robomaster01.jpg) |
+| :----------------------------------------: | :---------------------------------------: |
+|            RoboMaster Moment 1             |            RoboMaster Moment 2            |
+| ------------------------------------------ |           ---------------------           |
+
+- 智能电网应用技术研究 校级优秀结题
+
+| ![RoboMaster](../images/loadforecasting01.png) | ![RoboMaster](../images/loadforecasting02.png) |
+| :--------------------------------------------: | :--------------------------------------------: |
+|    Results of Short-Term Load Forecasting 1    |    Results of Short-Term Load Forecasting 2    |
+|   -----------------------------------------    |             ---------------------              |
 
 ## 技能水平
 
