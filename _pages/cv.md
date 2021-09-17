@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "亓臻康"
 permalink: /cv/
 author_profile: true
