@@ -33,10 +33,10 @@ I'm still Passionate about the future, despite the detours.
   - Responsible for robot motion control system.
   - Embedded Development & Machine Learning Algorithm
 
-| :---------------------------------------: | :---------------------------------------: |
-| ![RoboMaster](../images/robomaster02.jpg) | ![RoboMaster](../images/robomaster01.jpg) |
-| RoboMaster Moment | RoboMaster Moment |
-| ---------------------------------- | ---------------------------------------- |
+| ![RoboMaster](../images/robomaster02.jpg)  | ![RoboMaster](../images/robomaster01.jpg) |
+| :----------------------------------------: | :---------------------------------------: |
+|            RoboMaster Moment 1             |            RoboMaster Moment 2            |
+| ------------------------------------------ |           ---------------------           |
 
 - 2018, **Terminal and Data based Smart Grid Technology**, Score A
   - Student Research Training Program (SRTP)
