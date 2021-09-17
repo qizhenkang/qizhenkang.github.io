@@ -68,4 +68,4 @@ I'm still Passionate about the future, despite the detours.
 - E-mail: [qizhenkang@foxmail.com](mailto:qizhenkang@foxmail.com)
 - Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/)
 - WeChat: sdlwqzk
-- Phone: +86-18801380634
+<!-- - Phone: +86-18801380634 -->

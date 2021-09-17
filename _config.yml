@@ -82,7 +82,7 @@ author:
   avatar: "qizhenkang.jpg"
   bio: "I am looking for a new Ph.D. position."
   location: "Beijing, China" # "Location"
-  phone: "+86-18801380634"
+  phone: # "+86-18801380634"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: #"http://yourfullgooglescholarurl.com"
