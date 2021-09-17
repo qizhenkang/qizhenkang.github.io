@@ -36,6 +36,13 @@ I'm still Passionate about the future, despite the detours.
   - Student Research Training Program (SRTP)
   - Design of load forecasting algorithm
 
+| RoboMaster | RoboMaster | RoboMaster |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+
+
 ## Skills
 
 - **Data Analysis**
