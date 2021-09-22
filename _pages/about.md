@@ -42,10 +42,10 @@ I'm Passionate about the FUTURE.<!-- , despite the detours. -->
   - Student Research Training Program (SRTP)
   - Design of load forecasting algorithm
 
-| ![RoboMaster](../images/loadforecasting01.png) | ![RoboMaster](../images/loadforecasting02.png) |
-| :--------------------------------------------: | :--------------------------------------------: |
-|    Results of Short-Term Load Forecasting 1    |    Results of Short-Term Load Forecasting 2    |
-|   -----------------------------------------    |             ---------------------              |
+<!-- | ![loadforecasting](../images/loadforecastingloadforecasting01.png) | ![loadforecasting](../images/loadforecasting02.png) |
+| :----------------------------------------------------------------: | :-------------------------------------------------: |
+|              Results of Short-Term Load Forecasting 1              |      Results of Short-Term Load Forecasting 2       |
+|             -----------------------------------------              |                ---------------------                | -->
 
 ## Skills
 

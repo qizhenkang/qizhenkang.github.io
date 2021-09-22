@@ -41,10 +41,10 @@ redirect_from:
 - 智能电网应用技术研究 校级优秀结题
   - 数据驱动的负荷预测算法
 
-| ![RoboMaster](../images/loadforecasting01.png) | ![RoboMaster](../images/loadforecasting02.png) |
-| :--------------------------------------------: | :--------------------------------------------: |
-|    Results of Short-Term Load Forecasting 1    |    Results of Short-Term Load Forecasting 2    |
-|   -----------------------------------------    |             ---------------------              |
+<!-- | ![loadforecasting](../images/loadforecasting01.png) | ![loadforecasting](../images/loadforecasting02.png) |
+| :-------------------------------------------------: | :-------------------------------------------------: |
+|      Results of Short-Term Load Forecasting 1       |      Results of Short-Term Load Forecasting 2       |
+|      -----------------------------------------      |                ---------------------                | -->
 
 ## 技能水平
 
