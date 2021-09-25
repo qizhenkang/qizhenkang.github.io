@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Passionate about the FUTURE.<!-- , despite the detours. -->
+<!-- I'm Passionate about the FUTURE., despite the detours. -->
 
 ## Education
 
