@@ -1,6 +1,6 @@
 ---
 # layout: archive
-permalink: /cv/
+permalink: /resume/
 title: "亓臻康"
 author_profile: true
 language: "简体中文"
