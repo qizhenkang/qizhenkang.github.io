@@ -200,7 +200,7 @@
   }
 
   .visible-links {
-    display: table;
+    // display: table;
 
     // ul {
     //   text-align: right;
@@ -212,7 +212,7 @@
       // text-align: right;
 
       &:first-child {
-        // font-weight: bold;
+        font-weight: bold;
 
         a {
           margin-left: 0;
