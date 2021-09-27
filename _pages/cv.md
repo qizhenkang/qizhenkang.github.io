@@ -4,7 +4,9 @@ permalink: /cv/
 title: "亓臻康"
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
+  - /about_zh/
+  - /about_zh.html
 ---
 
 <!-- {% include base_path %} -->
