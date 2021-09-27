@@ -16,21 +16,6 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <ul>
-      {% assign posts=site.posts | where:"language_ref", page.language_ref | sort: 'language' %}
-      {% for post in posts %}
-        <li>
-          <a href="{{ post.url }}" class="{{ post.language }}">{{ post.language }}</a>
-        </li>
-      {% endfor %}
-      
-      {% assign pages=site.pages | where:"language_ref", page.language_ref | sort: 'language' %}
-      {% for page in pages %}
-        <li>
-          <a href="{{ page.url }}" class="{{ page.language }}">{{ page.language }}</a>
-        </li>
-      {% endfor %}
-      </ul>
 
     {{ content }}
 
