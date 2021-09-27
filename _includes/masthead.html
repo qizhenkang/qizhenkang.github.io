@@ -16,7 +16,6 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
         <ul>
           {% assign posts=site.posts | where:"language_ref", page.language_ref | sort: 'language' %}
           {% for post in posts %}
@@ -32,6 +31,7 @@
             </li>
           {% endfor %}
           </ul>
+        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
