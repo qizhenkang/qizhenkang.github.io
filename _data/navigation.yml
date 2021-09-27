@@ -3,8 +3,8 @@ main:
   - title: "English Version"
     url: /
 
-  - title: "中文版"
-    url: /cv/
+  # - title: "中文版"
+  #   url: /cv/
 
   - title: "Coding"
     url: /leetcode/
