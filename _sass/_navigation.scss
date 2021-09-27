@@ -202,9 +202,13 @@
   .visible-links {
     display: table;
 
+    ul {
+      text-align: right;
+    }
+
     li {
       display: table-cell;
-      vertical-align: right;
+      vertical-align: middle;
 
       &:first-child {
         font-weight: bold;
