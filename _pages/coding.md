@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "LeetCode"
-permalink: /leetcode/
+title: "Coding"
+permalink: /coding/
 author_profile: true
 ---
 
