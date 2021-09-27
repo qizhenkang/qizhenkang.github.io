@@ -4,6 +4,7 @@ title: "Zhenkang Qi"
 excerpt: "About me"
 author_profile: true
 language: English
+language_ref: about
 redirect_from:
   - /about/
   - /about.html

@@ -4,6 +4,7 @@ permalink: /cv/
 title: "亓臻康"
 author_profile: true
 language: "简体中文"
+language_ref: about
 redirect_from:
   - /resume/
   - /about_zh/
