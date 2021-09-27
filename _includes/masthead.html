@@ -16,21 +16,21 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
 
-          {% assign pages=site.pages | where:"language_ref", page.language_ref | sort: 'language' %}
+          <!-- {% assign pages=site.pages | where:"language_ref", page.language_ref | sort: 'language' %}
           {% for page in pages %}
             <li>
               <a href="{{ page.url }}" class="{{ page.language }}">{{ page.language }}</a>
             </li>
-          {% endfor %}
+          {% endfor %} -->
         </ul>
         
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
-    {% for page in pages %}
+    <!-- {% for page in pages %}
       <li>
         <a href="{{ page.url }}" class="{{ page.language }}">{{ page.language }}</a>
       </li>
-    {% endfor %}
+    {% endfor %} -->
   </div>
 </div>
