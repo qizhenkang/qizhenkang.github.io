@@ -3,6 +3,7 @@ permalink: /
 title: "Zhenkang Qi"
 excerpt: "About me"
 author_profile: true
+language: English
 redirect_from:
   - /about/
   - /about.html

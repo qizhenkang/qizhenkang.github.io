@@ -19,3 +19,8 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+
+{% if page.language == 'English' %}
+  <link rel="alternate" hreflang="{{post.language}}" href="{{ site.base-url }}{{ post.url }}" />
+{% endif %}

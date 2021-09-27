@@ -3,6 +3,7 @@ layout: archive
 title: "Coding"
 permalink: /coding/
 author_profile: true
+language: English
 ---
 
 This is an INTRODUCTION about my coding skills.
