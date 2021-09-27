@@ -5,6 +5,8 @@ permalink: /coding/
 author_profile: true
 ---
 
+This is an INTRODUCTION about my coding skills.
+
 ## code
 
 ```python
