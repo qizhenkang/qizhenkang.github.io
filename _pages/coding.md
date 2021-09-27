@@ -4,6 +4,7 @@ title: "Coding"
 permalink: /coding/
 author_profile: true
 language: English
+language_ref: coding
 ---
 
 This is an INTRODUCTION about my coding skills.
