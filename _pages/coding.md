@@ -11,6 +11,7 @@ This is an INTRODUCTION about my coding skills.
 
 ## code
 
+<!--
 ```python
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -28,4 +29,4 @@ class Solution:
         tail.next = l1 if l1 else l2
 
         return head.next
-```
+``` -->
