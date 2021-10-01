@@ -19,7 +19,7 @@ redirect_from:
   - 2020.09 - Present
 - **B.E., Southeast University**, Nanjing, China
   - Electrical Engineering
-  - **GPA: 3.89/4.0, Ranking：1/161**
+  - GPA: 3.89/4.0, **Ranking：Top 1%**
   - 2016.09 - 2020.06
 
 ## Awards
@@ -37,7 +37,7 @@ redirect_from:
 
 | ![RoboMaster](../images/robomaster02.jpg)  | ![RoboMaster](../images/robomaster01.jpg) |
 | :----------------------------------------: | :---------------------------------------: |
-|            RoboMaster Moment 1             |            RoboMaster Moment 2            |
+|             RoboMaster Moment              |             RoboMaster Moment             |
 | ------------------------------------------ |           ---------------------           |
 
 - 2018, **Terminal and Data based Smart Grid Technology**, Score A
@@ -53,6 +53,7 @@ redirect_from:
 
 - **Data Analysis**
   - Master scientific calculation tools, such as **Python** and **MATLAB**
+  - Data Structures and Algorithms, [LeetCode](https://leetcode-cn.com/u/qizhenkang/)
   - Self-study Courses:
     - Convex Optimization
     - Introduction to Artificial Intelligence
@@ -60,7 +61,7 @@ redirect_from:
 - **Simulation Software**
   - Master PSCAD
 - **English**
-  - College English Test Band 6 (CET-6), 530
+  - College English Test - Band 6 (CET-6), 530
   - IELTS (Currently preparing)
   - Master English reading/writing skills
   - Master literature search and management methods
@@ -69,5 +70,5 @@ redirect_from:
 
 - E-mail: [qizhenkang@foxmail.com](mailto:qizhenkang@foxmail.com)
 - Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/)
-- WeChat: sdlwqzk
-<!-- - Phone: +86-18801380634 -->
+  <!-- - WeChat: sdlwqzk -->
+  <!-- - Phone: +86-18801380634 -->
