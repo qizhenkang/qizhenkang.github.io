@@ -53,7 +53,7 @@ redirect_from:
 
 - **Data Analysis**
   - Master scientific calculation tools, such as **Python** and **MATLAB**
-  - Data Structures and Algorithms(my [LeetCode](https://leetcode-cn.com/u/qizhenkang/){:target="_blank"} Account)
+  - Data Structures and Algorithms(my [LeetCode](https://leetcode-cn.com/u/qizhenkang/){:target="\_blank"})
   - Self-study Courses:
     - Convex Optimization
     - Introduction to Artificial Intelligence
@@ -69,6 +69,6 @@ redirect_from:
 ## Contact
 
 - E-mail: [qizhenkang@foxmail.com](mailto:qizhenkang@foxmail.com)
-- Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/){:target="_blank"}
+- Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/){:target="\_blank"}
   <!-- - WeChat: sdlwqzk -->
   <!-- - Phone: +86-18801380634 -->
