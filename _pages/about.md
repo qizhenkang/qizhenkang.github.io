@@ -34,7 +34,7 @@ redirect_from:
 ## Projects
 
 - 2018, **RoboMaster of National Robotics Competition**, National Third Prize
-  - Responsible for robot motion control system in [RoboMaster](https://www.robomaster.com/en-US){:target="_blank"} 2018.
+  - Responsible for robot motion control system in **[RoboMaster](https://www.robomaster.com/en-US){:target="_blank"} 2018**.
   - Embedded Development & Machine Learning Algorithm
 
 | ![RoboMaster](../images/robomaster02.jpg)  | ![RoboMaster](../images/robomaster01.jpg) |
@@ -55,13 +55,13 @@ redirect_from:
 
 - **Data Analysis**
   - Master scientific calculation tools, such as **Python** and **MATLAB**
-  - Data Structures and Algorithms(my [LeetCode](https://leetcode-cn.com/u/qizhenkang/){:target="_blank"})
+  - Data Structures and Algorithms(my **[LeetCode](https://leetcode-cn.com/u/qizhenkang/){:target="_blank"}**)
   - Self-study Courses:
     - Convex Optimization
     - Introduction to Artificial Intelligence
     - Deep Learning
 - **Simulation Software**
-  - Master PSCAD
+  - Master **PSCAD**
 - **English**
   - College English Test - Band 6 (CET-6), 530
   - IELTS (Currently preparing)
