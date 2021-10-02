@@ -15,7 +15,7 @@ redirect_from:
 ## Education
 
 - **Ph.D. Candidate, Tsinghua University**, Beijing, China
-  - Electrical Engineering
+  - Electrical Engineering, [Department of Electrial Engineering](https://www.eea.tsinghua.edu.cn/en/){:target="_blank"}
   - 2020.09 - Present
 - **B.E., Southeast University**, Nanjing, China
   - Electrical Engineering
