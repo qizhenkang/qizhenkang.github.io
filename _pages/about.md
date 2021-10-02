@@ -32,7 +32,7 @@ redirect_from:
 ## Projects
 
 - 2018, **RoboMaster of National Robotics Competition**, National Third Prize
-  - Responsible for robot motion control system.
+  - Responsible for robot motion control system in [RoboMaster 2018](https://www.robomaster.com/en-US){:target="_blank"}.
   - Embedded Development & Machine Learning Algorithm
 
 | ![RoboMaster](../images/robomaster02.jpg)  | ![RoboMaster](../images/robomaster01.jpg) |
