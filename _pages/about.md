@@ -18,7 +18,7 @@ redirect_from:
   - Electrical Engineering, [Department of Electrial Engineering](https://www.eea.tsinghua.edu.cn/en/){:target="_blank"}
   - 2020.09 - Present
 - **B.E., Southeast University**, Nanjing, China
-  - Electrical Engineering
+  - Electrical Engineering, [School of Electrial Engineering](https://ee.seu.edu.cn/eeen/main.psp){:target="_blank"}
   - GPA: 3.89/4.0, **Ranking：Top 1%**
   - 2016.09 - 2020.06
 
