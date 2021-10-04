@@ -55,7 +55,7 @@ redirect_from:
 
 - **Data Analysis**
   - Master scientific calculation tools, such as **Python** and **MATLAB**
-  - Data Structures and Algorithms(my [LeetCode](https://github.com/qizhenkang/myLeetCode){:target="_blank"})
+  - Data Structures and Algorithms(my [LeetCode](https://github.com/qizhenkang/myLeetCode){:target="_blank"} Record)
   - Self-study Courses:
     - Convex Optimization
     - Introduction to Artificial Intelligence
