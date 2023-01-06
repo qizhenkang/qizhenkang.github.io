@@ -8,6 +8,7 @@ language_ref: about
 redirect_from:
     - /about/
     - /about.html
+    - /resume/
 ---
 
 <!-- I'm Passionate about the FUTURE., despite the detours. -->
