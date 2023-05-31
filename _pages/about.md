@@ -11,8 +11,6 @@ redirect_from:
     - /resume/
 ---
 
-<!-- I'm Passionate about the FUTURE., despite the detours. -->
-
 ## Education
 
 -   **Ph.D. Candidate, Tsinghua University**
@@ -26,6 +24,8 @@ redirect_from:
     -   Nanjing, China
 
 ## Awards
+
+<!-- -   2023, \*\* Best Paper Award -->
 
 -   2020, **Graduation with Honor: College Graduate Excellence Award** (Top 5%)
 -   2018, **National Scholarship for Undergraduate Students** (Top 5%)
@@ -55,14 +55,15 @@ redirect_from:
 ## Skills
 
 -   **Data Analysis**
+    -   Wavelet analysis, Sparse representation
     -   Master scientific calculation tools, such as **Python** and **MATLAB**
-    -   Data Structures and Algorithms(my [LeetCode](https://github.com/qizhenkang/myLeetCode){:target="\_blank"} Record)
+    <!-- -   Data Structures and Algorithms(my [LeetCode](https://github.com/qizhenkang/myLeetCode){:target="\_blank"} Record) -->
     -   Self-study Courses:
         -   Convex Optimization
         -   Introduction to Artificial Intelligence
         -   Deep Learning
 -   **Simulation Software**
-    -   Master **PSCAD**
+    -   Master **PSCAD/EMTDC**
 -   **English**
     -   College English Test - Band 6 (CET-6), 530
     -   IELTS (Currently preparing)
@@ -73,5 +74,3 @@ redirect_from:
 
 -   E-mail: [qizhenkang@foxmail.com](mailto:qizhenkang@foxmail.com)
 -   Linkedin: [Zhenkang Qi](https://www.linkedin.com/in/qizhenkang/){:target="\_blank"}
-    <!-- - WeChat: sdlwqzk -->
-    <!-- - Phone: +86-18801380634 -->
