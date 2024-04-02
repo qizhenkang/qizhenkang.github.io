@@ -82,14 +82,14 @@ analytics:
 author:
     name: "Zhenkang Qi"
     avatar: "qizhenkang.jpg"
-    bio: "Hi, I'm Zhenkang!"
+    bio:
     location: "Beijing, China" # "Location"
     phone: # "+86-18801380634"
     employer:
-    pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+    pubmed:
     googlescholar: #"http://yourfullgooglescholarurl.com"
     email: "qizhenkang@foxmail.com"
-    researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+    researchgate:
     uri:
     bitbucket:
     codepen:
@@ -101,13 +101,13 @@ author:
     google_plus:
     keybase:
     instagram:
-    impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+    impactstory:
     lastfm:
     linkedin: "qizhenkang"
     orcid: # "http://orcid.org/yourorcidurl"
     pinterest:
     soundcloud:
-    stackoverflow: # http://stackoverflow.com/users/123456/username
+    stackoverflow:
     steam:
     tumblr:
     twitter: # "replacethistwitterhandle"
@@ -116,7 +116,7 @@ author:
     xing:
     youtube:
     wikipedia:
-    weixin: "sdlwqzk"
+    weixin:
 
 # Reading Files
 include:

@@ -19,9 +19,29 @@ redirect_from:
     -   Beijing, China
 -   **B.E., Southeast University**
     -   Electrical Engineering, [School of Electrial Engineering](https://ee.seu.edu.cn/eeen/main.psp){:target="\_blank"}
-    <!-- -   GPA: 3.89/4.0, **Ranking：Top 1%** -->
+    -   GPA: 3.89/4.0, Ranking: 1/161
     -   2016.09 - 2020.06
     -   Nanjing, China
+
+## Research
+
+### Protection for Active Distribution Networks
+
+-   Differential Protection
+-   Non-Communication Protection
+-   Fault feeder identification
+
+[1] Z. Qi et al., “A Wavelet-Based Time-Domain Current Differential Protection for Active Distribution Networks,” _IEEE Trans. Smart Grid_, _under review_ 2024.
+[2] Z. Qi, A. Sun, and X. Dong, “Data Compression for Differential Protection of Distribution Network: A Wavelet Approach,” in 2023 IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023, pp. 206–210.
+[3] Z. Qi et al., “Resilience-Oriented Non-Communication Protection Scheme for Distribution Networks with Inverter-Interfaced Distributed Generators,” _to be submitted_.
+
+### Traveling Wave Protection and Fault Location for Transmission Lines
+
+-   Traveling wave differential protection
+-   Traveling wave Fault Location
+
+[4] Z. Qi et al., “A GNSS-independent Two-Terminal Traveling Wave Fault Location Scheme for Transmission Lines,” _Proceedings of the CSEE (in Chinese)_, _early access_, 2024.
+[5] Z. Qi et al., “A Low-Bit Traveling Wave Differential Protection for Transmission Lines Connected to Wind Farms,” _to be submitted_.
 
 <!-- ## Awards  -->
 
