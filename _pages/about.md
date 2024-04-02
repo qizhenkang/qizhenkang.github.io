@@ -25,16 +25,16 @@ redirect_from:
 
 ## Research
 
-### Protection for Active Distribution Networks
+### Resilience-Oriented Protection for Active Distribution Networks
 
 -   Differential Protection
 -   Non-Communication Protection
--   Fault feeder identification
+-   Fault Feeder Identification
 
-### Traveling Wave Protection and Fault Location for Transmission Lines
+### Traveling Wave Protection and Fault Location for Transmission Lines Connected to Renewable Generation
 
--   Traveling wave differential protection
--   Traveling wave Fault Location
+-   Traveling Wave Differential Protection
+-   Traveling Wave Fault Location
 
 ## Publications
 
