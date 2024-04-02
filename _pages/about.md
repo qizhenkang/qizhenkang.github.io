@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Zhenkang Qi"
-excerpt: "About me"
+title: "Zhenkang Qi / 亓臻康"
+excerpt: "Home"
 author_profile: true
 language: English
 language_ref: about
 redirect_from:
+    - /home/
+    - /home.html
     - /about/
     - /about.html
     - /resume/
@@ -38,9 +40,9 @@ redirect_from:
 
 ## Publications
 
--   [1] Z. Qi _et al_., “A GNSS-independent Two-Terminal Traveling Wave Fault Location Scheme for Transmission Lines,” _Proceedings of the CSEE (in Chinese)_, _early access_, 2024.
+-   [1] Z. Qi, H. Wang, X. Dong, and Q. Hong, “A GNSS-independent Two-Terminal Traveling Wave Fault Location Scheme for Transmission Lines,” _Proceedings of the CSEE (in Chinese)_, _early access_, 2024.
 -   [2] Z. Qi, A. Sun, and X. Dong, “Data Compression for Differential Protection of Distribution Network: A Wavelet Approach,” in 2023 IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023, pp. 206–210.
--   [3] Z. Qi, H. Wang, and _et al_., “A Wavelet-Based Time-Domain Current Differential Protection for Active Distribution Networks,” _IEEE Trans. Smart Grid_, _under review_ 2024.
+-   [3] Z. Qi, _et al_., “A Wavelet-Based Time-Domain Current Differential Protection for Active Distribution Networks,” _IEEE Trans. Smart Grid_, _under review_, 2024.
 
 <!-- -   [4] Z. Qi _et al_., “Resilience-Oriented Non-Communication Protection Scheme for Distribution Networks with Inverter-Interfaced Distributed Generators,” _to be submitted_.
 -   [5] Z. Qi _et al_., “A Low-Bit Traveling Wave Differential Protection for Transmission Lines Connected to Wind Farms,” _to be submitted_. -->
