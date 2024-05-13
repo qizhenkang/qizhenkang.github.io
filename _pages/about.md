@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhenkang Qi / 亓臻康"
+title: "Zhenkang Qi"
 excerpt: "Home"
 author_profile: true
 language: English
