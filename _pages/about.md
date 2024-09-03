@@ -16,15 +16,16 @@ redirect_from:
 ## Education
 
 -   **Ph.D. Candidate, Tsinghua University**
+
     -   Electrical Engineering, [Department of Electrial Engineering](https://www.eea.tsinghua.edu.cn/en/){:target="\_blank"}
     -   2020.09 - Present
     -   Beijing, China
 
-<!-- -   **B.E., Southeast University**
+-   **B.E., Southeast University**
     -   Electrical Engineering, [School of Electrial Engineering](https://ee.seu.edu.cn/eeen/main.psp){:target="\_blank"}
     -   GPA: 3.89/4.0, Ranking: 1/161
     -   2016.09 - 2020.06
-    -   Nanjing, China -->
+    -   Nanjing, China
 
 <!-- ## Research
 
